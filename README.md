@@ -5,7 +5,7 @@ Unity에서 VTuber용 VRM 모델에 새로운 의상 에셋(사실 옷 뿐아니
 
 ## 🛠 요구 사항 (Requirements)
 Unity Unity 2018.4.X에서 Unity 2023 3.X 버전 까지 호환! (그 이후 버전은 유니티 구조 호환 안됨)
-- Unity 2019.4.41f1 이상 (VSeeFace에서는 Unity 2019.4.31f1, VRChat Creator Companion에선 2022.3.22f1, Warudo에선 2021.3.45f2)
+- Unity 2019.4.31f1 이상 (VSeeFace에서는 Unity 2019.4.31f1, VRChat Creator Companion에선 2022.3.22f1, Warudo에선 2021.3.45f2)
 - [UniVRM](https://github.com/vrm-c/UniVRM) 패키지 설치 필요
 - 포맷: `.vrm` 캐릭터 모델 (vroid 모델도 가능합니다) 및 리깅이 완료된 의상 프리팹(FBX)
 
