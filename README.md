@@ -16,7 +16,7 @@ VRoid 아바타 <-> Booth 아바타, 비전용 아바타 옷 <-> 내 아바타 �
 
 | 항목 | 링크 |
 |------|------|
-| VRM Clothing Merger Tool | [여기를 클릭하여 다운로드](https://github.com/BaBoBeep/VRM-Unity-Clothing-Tool/releases/tag/VRMClothingMergerTool) |
+| VRM Clothing Merger Tool | [여기를 클릭하여 다운로드](https://github.com/BaBoBeep/VRM-Unity-Clothing-Tool/releases/download/VRMClothingMergerTool/VRMClothingMergerTool.cs) |
 
 ## 🚀 사용 방법 (How to Use)
 **스크립트 단독에 경우**
